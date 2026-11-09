@@ -2,7 +2,7 @@
 
 Projeto de estudo focado na criação de formulários com HTML puro e no uso do Bootstrap 5.
 
-## 📁 Conteúdo
+##  Conteúdo
 
 - **index.html**: formulário com campos de texto (nome e sobrenome), botões de rádio (turno), checkboxes (tecnologias), área de comentário e um botão que dispara um alerta em JavaScript.
 - **cadastro.html**: formulário de cadastro com nome, e-mail e senha, usando validação nativa do HTML (`required`, `type="email"`, `minlength` e `maxlength`).
